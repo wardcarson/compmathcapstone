@@ -1,4 +1,4 @@
-# compmathcapstone
+# Using Python to predict NFL Player Statistics
 Capstone project for MAD2502 Intro to Computational Math'
 
 Group members: Carson Ward, Jorge Sempere
