@@ -23,8 +23,8 @@ For this project, we will both attempt to have an even share of the work, which 
 
 We plan to use various NFL statistics websites, along with a guide for importing these statistics into python for use in the project. Pro Football Reference is a database for all things NFL, which has a rather large amount of these statistics characterized by year, position, team, etc.
 As well as this, any documentation on ways to provide variation to an approximation would be beneficial to our project.
-•	Guide for compiling these stats
-•	Example of a PFR page
+•	Guide for compiling these stats: https://towardsdatascience.com/scraping-nfl-stats-to-compare-quarterback-efficiencies-4989642e02fe
+•	Example of a PFR page: https://www.pro-football-reference.com/years/2019/passing.htm
 	
 
 # Biggest Hurdle:
