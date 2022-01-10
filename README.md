@@ -1,4 +1,7 @@
 # Using Python to predict NFL Player Statistics
+
+![image](https://user-images.githubusercontent.com/73800194/148820245-4c43eeaa-1be6-42c5-ba82-22171fef965b.png)
+
 Capstone project for MAD2502 Intro to Computational Math'
 
 Group members: Carson Ward, Jorge Sempere
